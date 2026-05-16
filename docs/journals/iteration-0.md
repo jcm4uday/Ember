@@ -17,3 +17,14 @@ The reSpeaker 2-Mics Pi HAT is the voice user interface for Raspberry Pi Series,
 [Seeed ReSpeaker Lite (2‑mic USB)](https://www.seeedstudio.com/ReSpeaker-2-Mics-Pi-HAT.html) it’s Seeed’s cheaper, simplified version.
 
 Best for: simple voice capture, Home Assistant, small projects.
+
+| Product                     | Mic Count | Interface | DSP / Beamforming | Pi HAT | Price Range | Best For |
+|-----------------------------|-----------|-----------|--------------------|--------|-------------|----------|
+| ReSpeaker 2‑Mic Pi HAT      | 2         | I2S       | No                 | Yes    | £10–£15     | Basic voice input on Pi |
+| ReSpeaker 4‑Mic USB Array   | 4         | USB       | Yes                | No     | £40–£60     | Far‑field voice capture |
+| Matrix Voice                | 7         | I2S/SPI   | Yes (FPGA)         | Yes    | £60–£90     | Advanced DSP + beamforming |
+| MiniDSP UMA‑8               | 8         | USB       | Yes                | No     | £150–£200   | High‑quality multi‑mic capture |
+| Adafruit Voice Bonnet       | 2         | I2S       | No                 | Yes    | £12–£20     | Simple Pi audio projects |
+| Google AIY Voice Kit        | 2         | I2S       | No                 | Partial| £25–£40     | Beginner voice‑assistant kits |
+| Keyestudio 2‑Mic Pi HAT     | 2         | I2S       | No                 | Yes    | £8–£12      | Budget Pi mic array |
+| Anker PowerConf S3          | 6         | USB       | Yes                | No     | £80–£100    | Plug‑and‑play conference‑grade audio |
