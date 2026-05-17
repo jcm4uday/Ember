@@ -28,3 +28,5 @@ Best for: simple voice capture, Home Assistant, small projects.
 | Google AIY Voice Kit        | 2         | I2S       | No                 | Partial| £25–£40     | Beginner voice‑assistant kits |
 | Keyestudio 2‑Mic Pi HAT     | 2         | I2S       | No                 | Yes    | £8–£12      | Budget Pi mic array |
 | Anker PowerConf S3          | 6         | USB       | Yes                | No     | £80–£100    | Plug‑and‑play conference‑grade audio |
+
+Ordered ReSpeaker 2‑Mic Pi HAT due to the price and use case. Have seen other ReSpeaker options that comes with ESP32 micro and firmware. In our case, firmware will be developed by us.
