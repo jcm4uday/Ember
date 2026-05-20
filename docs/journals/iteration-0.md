@@ -30,3 +30,9 @@ Best for: simple voice capture, Home Assistant, small projects.
 | Anker PowerConf S3          | 6         | USB       | Yes                | No     | £80–£100    | Plug‑and‑play conference‑grade audio |
 
 Ordered ReSpeaker 2‑Mic Pi HAT due to the price and use case. Have seen other ReSpeaker options that comes with ESP32 micro and firmware. In our case, firmware will be developed by us.
+
+### Environment details:
+- Raspberry OS installed - Debian GNU/Linux 13
+- Python 3.13.5
+- Git version 2.47.3
+- Audio utilities - ALSA commands and pipewire. No pulseaudio.
